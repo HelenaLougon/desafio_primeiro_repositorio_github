@@ -1,4 +1,4 @@
-#PRINCIPAIS COMANDOS DO GIT
+# PRINCIPAIS COMANDOS DO GIT
 
 COMANDO    |  FUNÇÃO
 ---------  |---------
