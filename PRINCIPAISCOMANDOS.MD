@@ -14,4 +14,4 @@ GIT rm -r  | REMOVE O DIRETÓRIO
 GIT LOG    | EXIBE O HISTÓRICO
 GIT PULL   | ATUALIZA OS ARQUIVOS NO BRANCH ATUAL
 
-CLIQUE [AQUI] (https://gist.github.com/leocomelli/2545add34e4fec21ec16) PARA MAIS INFORMAÇÕES.
+CLIQUE [https://comandosgit.github.io/] (AQUI) PARA MAIS INFORMAÇÕES.
